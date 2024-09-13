@@ -1,5 +1,5 @@
 /*
-    Project: Lab 01: My First JavaScript Application
+    App Name: Lab 01: My First JavaScript Application
     Date: 2/4/21
     Author: Zak Ruvalcaba
 */
